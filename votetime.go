@@ -1,3 +1,4 @@
+// Copyright (c) 2018, Decred Labs
 // Copyright (c) 2017, Jonathan Chappelow
 // Under the ISC license.  See LICENSE.
 package main

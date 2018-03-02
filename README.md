@@ -6,8 +6,8 @@ duration over all of your tickets.
 
 ## Installation
 
-    git clone https://github.com/chappjc/votetime $GOPATH/src/github.com/chappjc/votetime
-    cd $GOPATH/src/github.com/chappjc/votetime
+    git clone https://github.com/dcrlabs/votetime $GOPATH/src/github.com/dcrlabs/votetime
+    cd $GOPATH/src/github.com/dcrlabs/votetime
     dep ensure
     go build
 
